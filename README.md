@@ -6,19 +6,19 @@ distinct languages:
 * Javascript
 * C++
 
-To run the Python solutions, execute
+To run the Python solution, execute
 ```bash
-python filename.py
+python python.py
 ```
 
-To run the Javascript solutions, install node.js
+To run the Javascript solution, install node.js
 and execute:
 ```bash
-node filename.js
+node javascript.js
 ```
 
-To run the C++ solutions, install g++ and execute:
+To run the C++ solution, install g++ and execute:
 ```bash
-g++ filename.c
-./filename.out
+g++ c++.c
+./a.out
 ```
